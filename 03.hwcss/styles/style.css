@@ -1,0 +1,63 @@
+body{
+    max-width: 100%;
+    background-image: url(../images/bg-image.png);
+    
+   
+}
+table{
+    max-width: 80%;
+    border: black solid;
+   
+}
+
+#text{
+    background-color: white;
+}
+
+
+
+#logo{
+    background-color: #b9b9b9;
+}
+#logos
+{
+    background-color: #007700;
+}
+
+h2{
+    text-align: center;
+    vertical-align: top;
+}
+
+.top{
+    vertical-align: top;
+}
+
+
+#email{
+    height: 40px;
+    width: 70%;
+    border-color: #007700;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    
+   
+}
+
+#Subscribe{
+    
+    background-color: #ff9900;
+    height: 40px;
+    width: 70%;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.foto-size{
+    height:  150px;
+    
+}
+
